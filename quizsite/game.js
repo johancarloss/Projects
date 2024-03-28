@@ -41,7 +41,7 @@ let questions = [
     choice2: 'Desenvolvimento de interfaces de usuário', 
     choice3: 'Gerenciamento de servidores de rede', 
     choice4: 'Construir modelos preditivos com machine learning',
-    answer: 2, 
+    answer: 1, 
   },
   {
     question: "Qual a principal responsabilidade de um engenheiro de inteligência artificial?",
